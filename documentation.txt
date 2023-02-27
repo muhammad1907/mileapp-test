@@ -5,6 +5,9 @@ mongodb://billy:billy1907@localhost:27017/mileapp-test
 
 for collection, i’ve added in one folder with a project
 
+add package library 
+composer require jenssegers/mongodb:"3.8"
+
 .Env Mileapp Test
 APP_NAME=Laravel
 APP_ENV=local
