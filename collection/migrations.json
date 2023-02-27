@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "63fccb122c030000da0008d2"
+  },
+  "migration": "2014_10_12_000000_create_users_table",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008d3"
+  },
+  "migration": "2014_10_12_100000_create_password_resets_table",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008d4"
+  },
+  "migration": "2019_08_19_000000_create_failed_jobs_table",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008d5"
+  },
+  "migration": "2019_12_14_000001_create_personal_access_tokens_table",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008d6"
+  },
+  "migration": "2023_02_27_023513_create_transaction_collection",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008d7"
+  },
+  "migration": "2023_02_27_041233_create_customer_attribute_collection",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008d8"
+  },
+  "migration": "2023_02_27_041247_create_connote",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008d9"
+  },
+  "migration": "2023_02_27_041347_create_origin_data",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008da"
+  },
+  "migration": "2023_02_27_041358_create_destination_data",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008db"
+  },
+  "migration": "2023_02_27_041413_create_koil_data",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008dc"
+  },
+  "migration": "2023_02_27_041436_create_custom_field",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008dd"
+  },
+  "migration": "2023_02_27_041501_create_current_location",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008de"
+  },
+  "migration": "2023_02_27_044418_add_connote_id",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008df"
+  },
+  "migration": "2023_02_27_102056_add_cs_transaction_id",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008e0"
+  },
+  "migration": "2023_02_27_102104_add_od_transaction_id",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008e1"
+  },
+  "migration": "2023_02_27_102119_add_ds_transaction_id",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008e2"
+  },
+  "migration": "2023_02_27_102121_add_kl_transaction_id",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008e3"
+  },
+  "migration": "2023_02_27_102123_add_cf_transaction_id",
+  "batch": 1
+},{
+  "_id": {
+    "$oid": "63fccb122c030000da0008e4"
+  },
+  "migration": "2023_02_27_102125_add_cl_transaction_id",
+  "batch": 1
+}]

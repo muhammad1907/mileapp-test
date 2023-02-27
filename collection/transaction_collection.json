@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "63fce1160957000047007fe2"
+  },
+  "transaction_id": "d0090c44-539f-479a-8274-355345",
+  "connote_id": "f70670b4-c3ef-4caf-bc4f-eefa702092ed",
+  "customer_code": "1678593",
+  "transaction_amount": "7500",
+  "transaction_discount": "0",
+  "transaction_additional_field": null,
+  "transaction_payment_type": "29",
+  "transaction_state": "PAID",
+  "transaction_code": "CGKFT20200715121",
+  "transaction_order": 121,
+  "location_id": "5cecb20b6c49615b174c3e74",
+  "organization_id": 6,
+  "transaction_payment_type_name": "INVOICE",
+  "transaction_cash_amount": 0,
+  "transaction_cash_change": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1677517077834"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677517077834"
+    }
+  }
+}]

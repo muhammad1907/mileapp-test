@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "63fce1160957000047007fe6"
+  },
+  "transaction_id": "d0090c44-539f-479a-8274-355345",
+  "customer_name": "PT AMARIS HOTEL SIMPANG LIMA",
+  "customer_address": "JL. KH. AHMAD DAHLAN NO. 01, SEMARANG TENGAH",
+  "customer_email": null,
+  "customer_phone": "0248453499",
+  "customer_address_detail": "KOTA SEMARANG SEMARANG TENGAH KARANGKIDUL",
+  "customer_zip_code": "50241",
+  "zone_code": "SMG",
+  "organization_id": 6,
+  "location_id": "5cecb20b6c49615b174c3e74",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1677517078262"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677517078262"
+    }
+  }
+}]

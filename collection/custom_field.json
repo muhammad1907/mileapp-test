@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "63fce1160957000047007fea"
+  },
+  "transaction_id": "d0090c44-539f-479a-8274-355345",
+  "catatan_tambahan": "JANGAN DI BANTING / DI TINDIH",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1677517078289"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677517078289"
+    }
+  }
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "63fce1160957000047007fe4"
+  },
+  "connote_id": "f70670b4-c3ef-4caf-bc4f-4535211",
+  "connote_number": 1,
+  "connote_service": "ECO",
+  "connote_service_price": 70700,
+  "connote_amount": 70700,
+  "connote_code": "AWB00100209082022",
+  "connote_booking_code": null,
+  "connote_order": 326931,
+  "connote_state": "PAID",
+  "connote_state_id": 2,
+  "zone_code_from": "CGKFT",
+  "zone_code_to": "SMG",
+  "surcharge_amount": null,
+  "actual_weight": 20,
+  "volume_weight": 0,
+  "chargeable_weight": 20,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594786272000"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594786282000"
+    }
+  },
+  "connote_total_package": "3",
+  "connote_surcharge_amount": "0",
+  "connote_sla_day": "4",
+  "location_name": "Hub Jakarta Selatan",
+  "location_type": "HUB",
+  "source_tariff_db": "tariff_customers",
+  "id_source_tariff": "1576868",
+  "pod": null,
+  "history": []
+}]

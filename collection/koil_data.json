@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "63fce1160957000047007fe7"
+  },
+  "transaction_id": "d0090c44-539f-479a-8274-355345",
+  "koli_length": 0,
+  "awb_url": "https://tracking.mile.app/label/AWB00100209082020.1",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594811473000"
+    }
+  },
+  "koli_chargeable_weight": 9,
+  "koli_width": 0,
+  "koli_surcharge": [],
+  "koli_height": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594811473000"
+    }
+  },
+  "koli_description": "V WARP",
+  "koli_formula_id": null,
+  "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+  "koli_volume": 0,
+  "koli_weight": 9,
+  "koli_id": "e2cb6d86-0bb9-409b-a1f0-389ed4f2df2d",
+  "koli_custom_field": "{\"awb_sicepat\":null,\"harga_barang\":null}",
+  "koli_code": "AWB00100209082020.1"
+},{
+  "_id": {
+    "$oid": "63fce1160957000047007fe8"
+  },
+  "transaction_id": "d0090c44-539f-479a-8274-355345",
+  "koli_length": 0,
+  "awb_url": "https://tracking.mile.app/label/AWB00100209082020.2",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594811473000"
+    }
+  },
+  "koli_chargeable_weight": 9,
+  "koli_width": 0,
+  "koli_surcharge": [],
+  "koli_height": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594811473000"
+    }
+  },
+  "koli_description": "V WARP",
+  "koli_formula_id": null,
+  "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+  "koli_volume": 0,
+  "koli_weight": 9,
+  "koli_id": "3600f10b-4144-4e58-a024-cc3178e7a709",
+  "koli_custom_field": "{\"awb_sicepat\":null,\"harga_barang\":null}",
+  "koli_code": "AWB00100209082020.2"
+},{
+  "_id": {
+    "$oid": "63fce1160957000047007fe9"
+  },
+  "transaction_id": "d0090c44-539f-479a-8274-355345",
+  "koli_length": 0,
+  "awb_url": "https://tracking.mile.app/label/AWB00100209082020.3",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1594811473000"
+    }
+  },
+  "koli_chargeable_weight": 2,
+  "koli_width": 0,
+  "koli_surcharge": [],
+  "koli_height": 0,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1594811473000"
+    }
+  },
+  "koli_description": "LID HOT CUP",
+  "koli_formula_id": null,
+  "connote_id": "f70670b1-c3ef-4caf-bc4f-eefa702092ed",
+  "koli_volume": 0,
+  "koli_weight": 2,
+  "koli_id": "2937bdbf-315e-4c5e-b139-fd39a3dfd15f",
+  "koli_custom_field": "{\"awb_sicepat\":null,\"harga_barang\":null}",
+  "koli_code": "AWB00100209082020.3"
+}]

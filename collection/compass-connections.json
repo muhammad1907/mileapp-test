@@ -1,0 +1,38 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "ed0aab7e-c190-46ab-9e93-016bfddfe88e",
+      "connectionOptions": {
+        "connectionString": "mongodb://Billy:billy1907@localhost:27017/"
+      },
+      "favorite": {
+        "name": "mileapp-test",
+        "color": "color1"
+      },
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1677453340573"
+        }
+      }
+    },
+    {
+      "id": "6fce6241-84f6-46b7-bc90-b40b765a5b1a",
+      "connectionOptions": {
+        "connectionString": "mongodb://billy:billy1907@localhost:27017/mileapp-test"
+      },
+      "favorite": {
+        "name": "Mileapp-testconnection",
+        "color": "color6"
+      },
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1677493737738"
+        }
+      }
+    }
+  ]
+}

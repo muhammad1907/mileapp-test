@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "63fce1160957000047007fe5"
+  },
+  "transaction_id": "d0090c44-539f-479a-8274-355345",
+  "customer_name": "PT. NARA OKA PRAKARSA",
+  "customer_address": "JL. KH. AHMAD DAHLAN NO. 100, SEMARANG TENGAH 12420",
+  "customer_email": "info@naraoka.co.id",
+  "customer_phone": "024-1234567",
+  "customer_address_detail": null,
+  "customer_zip_code": "12420",
+  "zone_code": "CGKFT",
+  "organization_id": 6,
+  "location_id": "5cecb20b6c49615b174c3e74",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1677517078257"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1677517078257"
+    }
+  }
+}]
